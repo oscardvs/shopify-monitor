@@ -1,0 +1,12 @@
+{
+    "port": 3000,
+    "mongodb_uri": "mongodb://127.0.0.1:27017",
+    "slack": {
+        "active": false,
+        "webhook_url": ""
+    },
+    "discord": {
+        "active": true,
+        "webhook_url": "https://discordapp.com/api/webhooks/664190944098385920/A5xkJYnNUnhuUXkqQ7gbX10qVPQLrWVQuROenS7FPIBF7vU2-0_F4cOFt1b5VAfto_wa"
+    }
+}
